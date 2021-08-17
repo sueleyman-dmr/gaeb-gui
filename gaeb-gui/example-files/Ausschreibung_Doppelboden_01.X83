@@ -1,0 +1,2147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- GXML Toolbox V3.2 R20130614;  http://www.gaeb-toolbox.de/  -->
+<GAEB xmlns="http://www.gaeb.de/GAEB_DA_XML/200407">
+ <GAEBInfo>
+  <Version>3.1</Version>
+  <VersDate>2009-12</VersDate>
+  <Date>2013-11-14</Date>
+  <Time>17:26:01</Time>
+  <ProgSystem>Merlin 17.0.1/ GXML Toolbox V3.2 R20130614</ProgSystem>
+  <ProgName>Merlin 17.0.1</ProgName>
+ </GAEBInfo>
+ <PrjInfo>
+  <NamePrj>16703</NamePrj>
+  <LblPrj>Muster LV_Doppelbodenarbeiten</LblPrj>
+  <Cur>EUR</Cur>
+  <CurLbl>Euro</CurLbl>
+ </PrjInfo>
+ <Award>
+  <DP>83</DP>
+  <AwardInfo>
+   <Cur>EUR</Cur>
+   <CurLbl>Euro</CurLbl>
+  </AwardInfo>
+  <OWN>
+   <Address/>
+  </OWN>
+  <BoQ ID="SBBU-ANGB-0000003490">
+   <BoQInfo>
+    <Name>16703</Name>
+    <LblBoQ>Muster LV_Doppelbodenarbeiten</LblBoQ>
+    <Date>2013-11-14</Date>
+    <OutlCompl>AllTxt</OutlCompl>
+    <BoQBkdn>
+     <Type>BoQLevel</Type>
+     <Length>2</Length>
+     <Num>No</Num>
+     <Alignment>right</Alignment>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>BoQLevel</Type>
+     <Length>2</Length>
+     <Num>No</Num>
+     <Alignment>right</Alignment>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>Item</Type>
+     <Length>6</Length>
+     <Num>No</Num>
+     <Alignment>right</Alignment>
+    </BoQBkdn>
+    <BoQBkdn>
+     <Type>Index</Type>
+     <Length>1</Length>
+     <Num>No</Num>
+     <Alignment>left</Alignment>
+    </BoQBkdn>
+   </BoQInfo>
+   <BoQBody>
+    <BoQCtgy ID="SBBU-ANEB-0000011852" RNoPart="1">
+     <LblTx>
+      <span>Doppelbodenarbeiten</span>
+     </LblTx>
+     <BoQBody>
+      <BoQCtgy ID="SBBU-ANEB-0000011853" RNoPart="0">
+       <LblTx>
+        <span>Technische Vorbemerkungen</span>
+       </LblTx>
+       <BoQBody>
+        <Itemlist>
+         <Item ID="SBBU-ANPO-0000064965" RNoPart="1">
+          <Qty>0.000</Qty>
+          <QU/>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Die Doppelbodenplatten bestehen aus nicht brennbarem Material auf mineralischer Basis mit Faserbewehrung ohne metallische Einlagen, Bewehrungen und Umrahmungen zur Vermeidung von Korrisionsbildung. Sie sind nichtrostend und beständig im Normalklima.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Anschnitte und Ausschnitte dürfen die Statik nicht wesentlich beeinflussen.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Rastermaß:		600 x 600 mm</span>
+              <br/>
+              <span>Plattenstärke:		36 mm</span>
+              <br/>
+              <span>Toleranzbereich Länge / Breite / Stärke:				+/- 0,2 mm</span>
+              <br/>
+              <span>Winkelgenauigkeit in der Diagonalen:				+/- 0,3 mm</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Der Anschluss an aufgehende Bauteile erfolgt durch passgenaue Anschnitte. Durch die Anschnitte darf keine Minderung der Belastungswerte eintreten. Ggf. sind Zusatzmaßnahmen an der Unterkonstruktion auszuführen, damit die Platten kippsicher aufliegen. Alle Anschnittplatten müssen aus dem gleichen nichtbrennbaren Material wie die vollen Platten bestehen.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Die Unterkonstruktion muß aus einzelnen, in der Höhe verstellbaren, verdrehgesicherten und arretierbaren verzinkten Stahlstützen bestehen, die eine einwandfreie Ausnivellierung gewährleisten. Die Befestigung der Stützen auf dem tragfähigen Rohboden erfolgt durch Verklebung mit einem PU-Kleber. In Sonderfällen kann eine zusätzliche Stützenverdübelung erforderlich sein ( Zulageposition ).</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Für Überbrückungen von Luftkanälen, Heizungsrohren oder sonstige Installationen müssen Überbrückungsträger für eine oder zwei entfallene Stützen möglich sein.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Ausschnitte für Kabel und Leitungsführungen müssen an jeder vollen Doppelbodenplatte (auch nachträglich) möglich sein, um Gerätenaschlüsse variabel wählen zu können. Bei Ausschnitten außerhalb der Plattenmitte sind evtl. notwendige Verstärkungsmaßnahmen vorzusehen.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Die Anschlüsse an Stützpfeiler, Wände und bauseitige Einrichtungen sind mit einer dauerelastischen, schwer entflammbaren (B1) Wandabdichtung zu versehen. Die Fuge beträgt ca. 8 mm und wird mit einer Sockelleiste abgedeckt.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Die geschlossene Doppelbodenkonstruktion muss der Feuerwiderstandsklasse F-30-AB nach DIN 4102 entsprechen. Der Nachweis ist vor Auftragserteilung durch ein gültiges Prüfzeugnis zu belegen.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Für die Ausführung der Doppelbodenarbeiten gelten die einschlägigen gesetzlichen und technischen Bestimmungen in ihrer neuesten Fassung, insbesondere:</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>DIN 4109  Schallschutz im Hochbau</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>DIN 4102  Brandverhalten von Baustoffen</span>
+              <br/>
+              <span>und Bauteilen</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>DIN 18202  Maßtoleranzen im Hochbau</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>DIN 18334  Zimmer- und Holzbauarbeiten</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>DIN 18360  Metallbauarbeiten</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>DIN 18364  Korrosionsschutz an Stahl und Aluminium</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>DIN 18365  Bodenbelagsarbeiten</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>DIN 51953  Prüfung der Ableitfähigkeit von Hartbelägen</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>DIN 54345  Prüfung der Ableitfähigkeit von Textilbelägen</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>DIN EN 12825 Doppelböden</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Anwendungsrichtlinie zur DIN EN 12825</span>
+              <br/>
+              <span>Doppelböden</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>ATV Systemböden	Allgemeine Technische Vertragsbedingungen für Hohlboden- und 	Doppelbodenarbeiten des Bundesverbandes Systemböden e.V.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Musterrichtlinie über brandschutztechnische Anforderungen an Systemböden MSysBör</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Merkblätter des Bundesverbandes Systemböden e.V.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Der Aufbau der Doppelbodenkonstruktion muss inkl. Belag sicherstellen, dass elektrostatische Aufladungen in die Unterkonstruktion abfließen.</span>
+              <br/>
+              <span>Die Erdung selbst erfolgt bauseits durch das Elektrogewerk.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Die frei aufliegenden Bodenplatten müssen mittels eines Hebewerkzeuges herausnehmbar sein. Die Nutzung des Bodenhohlraums als Druckkammer für eine Klimatisierung ist zu gewährleisten.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Die Materialdisposition darf erst nach den vom Auftraggeber freigegebenen Ausführungsplänen erfolgen.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Für die Montage des Doppelbodens steht geeignetes Hebewerkzeug wie Kran oder Aufzug bauseits zur Verfügung. Der Horizontaltransport in den Ebenen muß ungehindert mit einem Handhubwagen möglich sein. Der Baustrom für die Baustellenarbeiten wird bauseits zur Verfügung gestellt. </span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Zu den Leistungen des Auftragnehmers gehören neben der gesamten Materiallieferung und Gestellung der Montagekolonnen der Transport auf der Baustelle und die Bereitstellung aller erforderlichen Werkzeuge.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Das Bauwerk ist geschlossen und verglast. Während der Montage ist eine Baukörper und Raumlufttemperatur von mind. 10°C vorhanden. </span>
+              <br/>
+              <span>Die Luftfeuchtigkeit darf nicht mehr als 20% vom späteren Nutzungsklima abweichen.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Vor Montagebeginn erfolgt eine Freigabe der Räume durch die Bauleitung. Die Rohdecke ist grob gereinigt, Gips- und Mörtelreste sind beseitigt, Fremdmaterial ist entfernt.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Während der Doppelbodenmontage dürfen im Verlegebereich keinerlei andere Arbeiten ausgeführt werden.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Der Rohboden muß eine Oberflächenfestigkeit aufweisen, die einen Anstrich und ein Verkleben der Stützen mit ausreichender Abzugfestigkeit gewährleisten. Ein Nachweis hierüber ist bauseits zu führen. </span>
+              <br/>
+              <span/>
+              <br/>
+              <span>	</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Technische Vorbemerkungen</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+        </Itemlist>
+       </BoQBody>
+      </BoQCtgy>
+      <BoQCtgy ID="SBBU-ANEB-0000011854" RNoPart="1">
+       <LblTx>
+        <span>Baustelleneinrichtung</span>
+       </LblTx>
+       <BoQBody>
+        <Itemlist>
+         <Item ID="SBBU-ANPO-0000064966" RNoPart="1">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Baustelleneinrichtung, komplett</span>
+              <br/>
+              <span>für sämtliche Geräte und Maschinen,</span>
+              <br/>
+              <span>zur Erbringung der Gesamtleistung,</span>
+              <br/>
+              <span>einrichten, vorhalten und abräumen.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Baustelleneinrichtung*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000064967" RNoPart="2">
+          <Qty>0.000</Qty>
+          <QU>psch</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Planerstellung / Technische Bearbeitung,</span>
+              <br/>
+              <span>für das Erstellen der Rasterpläne,</span>
+              <br/>
+              <span>sowie für die technische Bearbeitung </span>
+              <br/>
+              <span>zur Durchführung der ausgeschriebenen Leistungen, pauschal</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Planerstellung/Technische Bearbeitung*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000064968" RNoPart="3">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Pauschale für zusätzliche</span>
+              <br/>
+              <span>An- und Abfahrten</span>
+              <br/>
+              <span>bei Montageunterbrechungen</span>
+              <br/>
+              <span>die nicht durch den AN zu vertreten sind und  bei Ausführung in mehreren Abschnitten.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>An- und Abfahrt 3 Mann*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+        </Itemlist>
+       </BoQBody>
+      </BoQCtgy>
+      <BoQCtgy ID="SBBU-ANEB-0000011855" RNoPart="2">
+       <LblTx>
+        <span>Doppelboden</span>
+       </LblTx>
+       <BoQBody>
+        <Itemlist>
+         <Item ID="SBBU-ANPO-0000064969" RNoPart="1">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Rohboden reinigen mittels Haarbesen</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Rohboden reinigen mittels Haarbesen*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000064970" RNoPart="2">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Besenreine Rohdecke mit einem lösungsmittelfreien Anstrich versehen,</span>
+              <br/>
+              <span>Material: WeGo Multikonzentrat grün,</span>
+              <br/>
+              <span>mit Bürste großflächig auftragen</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Staubbindender Rohbodenanstrich</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000064971" RNoPart="3">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Vorbereiten des Rohbodens durch Zusatzmaßnahmen wie z. B. Spachteln, Beseitien von Unebenheiten, Verwenden von Ausgleichkeilen, Kleber etc. </span>
+              <br/>
+              <span>für den Ausgleich von Rohbodentoleranzen außerhalb der </span>
+              <br/>
+              <span>DIN 18 202, Tabelle 2, Zeile 2.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Ausgleich von Rohbodentoleranzen*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000064972" RNoPart="4">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Liefern und Aufbringen einer Abdichtung auf staubfrei gereinigtem Rohbetonboden gemäß DIN 18195 Teil 3, </span>
+              <br/>
+              <span>gegen aufsteigende Feuchte, </span>
+              <br/>
+              <span>bestehend aus einer dampfdichten,</span>
+              <br/>
+              <span>systembodengeeigneten, kaltselbstklebenden</span>
+              <br/>
+              <span>Dampfsperre.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Rohboden versiegeln mit Dampfsperre*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000064973" RNoPart="5">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Auswechselung der Stützfußkonstruktion</span>
+              <br/>
+              <span>für die Unterkonstruktion des Systembodens, wenn Stützen nicht im vorgesehenen Raster gestellt werden können</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Auswechselung der Stützfußkonstruktion*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071579" RNoPart="6">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Doppelbodenanlage </span>
+              <br/>
+              <span>im Raster 600 x 600 mm,</span>
+              <br/>
+              <span>Platten aus faserverstärktem Kalziumsulfat, nicht brennbar, </span>
+              <br/>
+              <span>Knauf Integral, </span>
+              <br/>
+              <span>Plattentyp GIFAfloor DB-36,</span>
+              <br/>
+              <span>Baustoffklasse A 1 nach DIN EN 13 501,</span>
+              <br/>
+              <span>Baustoffklasse A 2 nach DIN 4102,</span>
+              <br/>
+              <span>Feuerwiderstandsklasse F-30 AB </span>
+              <br/>
+              <span>nach DIN 4102,</span>
+              <br/>
+              <span>Punktlast 3.000 N, Bruchlast &#x3e; 6.000 N,</span>
+              <br/>
+              <span>Stützen aus verzinktem Stahlrohr,</span>
+              <br/>
+              <span>stufenlos höhenverstellbar, arretierbar,</span>
+              <br/>
+              <span>auf dem Rohboden verklebt,</span>
+              <br/>
+              <span>Konstruktionshöhe ( OKF ) 100 mm</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>GIFAfloor DB-36, OKF 100 - ab Hersteller*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071580" RNoPart="7">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Doppelbodenanlage </span>
+              <br/>
+              <span>im Raster 600 x 600 mm,</span>
+              <br/>
+              <span>Platten aus faserverstärktem Kalziumsulfat, nicht brennbar, </span>
+              <br/>
+              <span>Knauf Integral, </span>
+              <br/>
+              <span>Plattentyp GIFAfloor DB-40,</span>
+              <br/>
+              <span>Baustoffklasse A 1 nach DIN EN 13 501,</span>
+              <br/>
+              <span>Baustoffklasse A 2 nach DIN 4102,</span>
+              <br/>
+              <span>Feuerwiderstandsklasse F-30 AB </span>
+              <br/>
+              <span>nach DIN 4102,</span>
+              <br/>
+              <span>Punktlast 4.500 N, Bruchlast &#x3e; 9.000 N,</span>
+              <br/>
+              <span>Stützen aus verzinktem Stahlrohr,</span>
+              <br/>
+              <span>stufenlos höhenverstellbar, arretierbar,</span>
+              <br/>
+              <span>auf dem Rohboden verklebt,</span>
+              <br/>
+              <span>Konstruktionshöhe ( OKF ) 100 mm</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>GIFAfloor DB-40, OKF 100 - ab Hersteller*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071581" RNoPart="8">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Doppelbodenanlage </span>
+              <br/>
+              <span>im Raster 600 x 600 mm,</span>
+              <br/>
+              <span>Platten aus faserverstärktem Kalziumsulfat, nicht brennbar, </span>
+              <br/>
+              <span>Knauf Integral, </span>
+              <br/>
+              <span>Plattentyp GIFAfloor DB-42,</span>
+              <br/>
+              <span>Baustoffklasse A 1 nach DIN EN 13 501,</span>
+              <br/>
+              <span>Baustoffklasse A 2 nach DIN 4102,</span>
+              <br/>
+              <span>Feuerwiderstandsklasse F-30 AB </span>
+              <br/>
+              <span>nach DIN 4102,</span>
+              <br/>
+              <span>Punktlast 5.000 N, Bruchlast &#x3e; 10.000 N,</span>
+              <br/>
+              <span>Stützen aus verzinktem Stahlrohr,</span>
+              <br/>
+              <span>stufenlos höhenverstellbar, arretierbar,</span>
+              <br/>
+              <span>auf dem Rohboden verklebt,</span>
+              <br/>
+              <span>Konstruktionshöhe ( OKF ) 100 mm</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>GIFAfloor DB-42, OKF 100 - ab Hersteller*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071582" RNoPart="9">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Doppelbodenanlage </span>
+              <br/>
+              <span>im Raster 600 x 600 mm,</span>
+              <br/>
+              <span>Platten aus Holzwerkstoff,                           unterseitig mit Aluminiumfeinblech,</span>
+              <br/>
+              <span>Plattentyp H 600 AL-38,</span>
+              <br/>
+              <span>Baustoffklasse B 2 nach DIN 4102,</span>
+              <br/>
+              <span>Punktlast 2.500 N, Bruchlast 5.000 N,</span>
+              <br/>
+              <span>Stützen aus verzinktem Stahlrohr,</span>
+              <br/>
+              <span>stufenlos höhenverstellbar,arretierbar,</span>
+              <br/>
+              <span>auf dem Rohboden verklebt,</span>
+              <br/>
+              <span>Konstruktionshöhe ( OKF ) 100 mm</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Dobo H 600 AL-38, OKF 100, &#x3c; 100 Stk.*  </span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071583" RNoPart="10">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Doppelbodenanlage </span>
+              <br/>
+              <span>im Raster 600 x 600 mm,</span>
+              <br/>
+              <span>Platten aus Holzwerkstoff,                           unterseitig mit verzinktem </span>
+              <br/>
+              <span>Stahlblech, 0,5  mm,</span>
+              <br/>
+              <span>schwer entflammbar,</span>
+              <br/>
+              <span>Plattentyp H 600 SB-38,5 ,</span>
+              <br/>
+              <span>Baustoffklasse B 1 nach DIN 4102,</span>
+              <br/>
+              <span>Feuerwiderstandsklasse F-30 AB </span>
+              <br/>
+              <span>nach DIN 4102,</span>
+              <br/>
+              <span>Punktlast 3.000 N, Bruchlast 6.000 N,</span>
+              <br/>
+              <span>Stützen aus verzinktem Stahlrohr,</span>
+              <br/>
+              <span>stufenlos höhenverstellbar, arretierbar,</span>
+              <br/>
+              <span>auf dem Rohboden verklebt,</span>
+              <br/>
+              <span>Konstruktionshöhe ( OKF ) 100 mm</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Dobo H 600 SB-38,5, OKF 100 &#x3c; 100 Stk.*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071584" RNoPart="11">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Wandanschluß an aufgehenden Bauteilen</span>
+              <br/>
+              <span>herstellen, einschl. Abdichtung mit Kompriband</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>WA Dobo gerade</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071590" RNoPart="12">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Wandanschluß an aufgehenden Bauteilen</span>
+              <br/>
+              <span>herstellen, einschl. Abdichtung mit Kompriband, als Schräganschnitt</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>WA Dobo schräg</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071591" RNoPart="13">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Wandanschluß an aufgehenden Bauteilen</span>
+              <br/>
+              <span>herstellen, einschl. Abdichtung mit Kompriband, als Rundanschnitt</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>WA Dobo rund</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000064981" RNoPart="14">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Zulage für Anpassarbeiten an</span>
+              <br/>
+              <span>Betonstützen in der Bodenfläche,</span>
+              <br/>
+              <span>einschl. Verstärkung der Unterkonstruktion</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Anpassarbeiten an Betonstützen</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071592" RNoPart="15">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Wandanschluß an aufgehenden Bauteilen, herstellen, einschl. einem Wandwinkel, 50 x 50 x 4 mm,</span>
+              <br/>
+              <span>einschl. Spezialdübel</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>WA Dobo mit Wandwinkel</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071593" RNoPart="16">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Anarbeiten an eine nivelierte Bodenkonvektortrasse,</span>
+              <br/>
+              <span>Abstellen der Bodenkonstruktion mit geeigneten</span>
+              <br/>
+              <span>Randwinkeln aus Aluminium, Ausrichten der Kanten,</span>
+              <br/>
+              <span>Einarbeiten eines Randstreifens.</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Anarbeiten an eine Bodenkonvektortrasse</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071595" RNoPart="17">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Ausschnitte rund, Ø bis 300 mm, </span>
+              <br/>
+              <span>für Elektranten in Doppelbodenplatten, ohne Blechverstärkung,</span>
+              <br/>
+              <span>werkseitig herstellen</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Ausschnitte rund Ø bis 300 mm o. Blech</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071596" RNoPart="18">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Ausschnitte eckig, Kantenlänge </span>
+              <br/>
+              <span>bis 300 mm, für Elektranten in Doppelbodenplatten, ohne Blechverstärkung,</span>
+              <br/>
+              <span>werkseitig herstellen</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Ausschnitte eckig, Kantenlänge bis 300 mm o. Blech</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071597" RNoPart="19">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Stufenbohrungen D = 150/ 200 mm </span>
+              <br/>
+              <span>in Platten ohne Blechverstärkung, </span>
+              <br/>
+              <span>werkseitig herstellen</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Stufenbohrung 150/200 ohne Blech</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000064982" RNoPart="20">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Ausschnitte für Heizungsrohre und Heizkörperkonsolen  herstellen,</span>
+              <br/>
+              <span>Durchmesser bis 20 mm,</span>
+              <br/>
+              <span>die Abdeckung mit Rosetten</span>
+              <br/>
+              <span>erfolgt bauseitig</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Heizrohrausschnitte ohne Belag</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000065001" RNoPart="21">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Absorberabschottungen aus </span>
+              <br/>
+              <span>Mineralwolle, Baustoffklasse A1,</span>
+              <br/>
+              <span>zwischen Rohdecke und Trägerplatte,</span>
+              <br/>
+              <span>in einer Breite von 300 mm,</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Absorberabschottung bis 500 mm</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000065002" RNoPart="22">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Abschottungen innerhalb des  Hohlbodens,</span>
+              <br/>
+              <span>für Brandschutz in F-30,</span>
+              <br/>
+              <span>aus Gipsdielen 80 mm dick,</span>
+              <br/>
+              <span>OKF bis 300 mm,</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Abschottung für F-30 bis 500 mm</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000065003" RNoPart="23">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Abschottungen innerhalb des Hohlbodens,</span>
+              <br/>
+              <span>für Brandschutz in F-90,</span>
+              <br/>
+              <span>aus Gipsdielen 80 mm dick,</span>
+              <br/>
+              <span>ohne Kabel- und Rohrdurchlässe,</span>
+              <br/>
+              <span>OKF bis 300 mm,</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Abschottung für F-90 bis 500 mm</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071598" RNoPart="24">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Zusatzausrüstung zur Doppelbodenanlage</span>
+              <br/>
+              <span>für Lieferung u. Montage von verdrehsicheren</span>
+              <br/>
+              <span>Rasterstäben RU Stab 30 x 30 x 1 mm,</span>
+              <br/>
+              <span>eingehängt in Stützenköpfe</span>
+              <br/>
+              <span>zur Horizontalaussteifung,</span>
+              <br/>
+              <span>als Zulage</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Traverse RU 30x30x1 mm</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071599" RNoPart="25">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Zusatzausrüstung zur Doppelbodenanlage</span>
+              <br/>
+              <span>für Lieferung u. Montage v. verdrehsicheren Traversen </span>
+              <br/>
+              <span>QR 30 x 30 x 1,5 mm,</span>
+              <br/>
+              <span>in Stützenköpfe eingehängt und verschraubt,  zur Lasterhöhung,</span>
+              <br/>
+              <span>als Zulage</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Traverse QR 30 x 30 x 1,5 mm</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071600" RNoPart="26">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Überbrückungsträger L = 1200 mm</span>
+              <br/>
+              <span>bei einer entfallenden Stütze,</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Überbrückungsträger 1200 mm</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071601" RNoPart="27">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Überbrückungsträger L = 1800 mm</span>
+              <br/>
+              <span>bei zwei entfallenden Stütze,</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Überbrückungsträger 1800 mm</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071602" RNoPart="28">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Zusatzausrüstung zur Doppelbodenanlage für 2 - faches Verdübeln der Stützenfüße, als Zulage</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>2-faches Verdübeln</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071603" RNoPart="29">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Zusatzausrüstung zur Doppelbodenanlage</span>
+              <br/>
+              <span>für 3 - faches Verdübeln der Stützenfüße,</span>
+              <br/>
+              <span>als Zulage</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>3-faches Verdübeln</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071604" RNoPart="30">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Abspannung bei fehlendem Widerlager,</span>
+              <br/>
+              <span>einschl. Bandeisen und Spannschloß,</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Abspannung lfm</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071605" RNoPart="31">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Treppenstufen mit 2 Steigungen</span>
+              <br/>
+              <span>Breite x Tiefe x Höhe:</span>
+              <br/>
+              <span>1000 x 300 x 150 mm</span>
+              <br/>
+              <span>incl. Trittkantenprofil,</span>
+              <br/>
+              <span>Tritt- und Setzstufen mit Belag,</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Treppenstufen 1-stufig, 2 Steig. m. Belag</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071606" RNoPart="32">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Treppenstufen mit 2 Steigungen</span>
+              <br/>
+              <span>Breite x Tiefe x Höhe:</span>
+              <br/>
+              <span>1000 x 300 x 150 mm</span>
+              <br/>
+              <span>Tritt- und Setzstufen </span>
+              <br/>
+              <span>aus Plattenmaterial, GIFAfloor DB-36, </span>
+              <br/>
+              <span>nicht brennbar,</span>
+              <br/>
+              <span>inkl. Trittkantenprofil</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Treppenstufen aus Mineralfaser-Platten</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071607" RNoPart="33">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Rampenkonstruktion,</span>
+              <br/>
+              <span>Unterkonstruktion aus Holz,</span>
+              <br/>
+              <span>einschl. Riffelgummibelag</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Rampe bis OKF 300 mm</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071608" RNoPart="34">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Geländer für Doppelboden,</span>
+              <br/>
+              <span>Höhe 1,12 m, Pfostenabstand 1,25 m,</span>
+              <br/>
+              <span>aus Stahlrohr 38 x 3 mm, </span>
+              <br/>
+              <span>PVC ummantelt schwarz,</span>
+              <br/>
+              <span>Rohrverbinder Alu roh, </span>
+              <br/>
+              <span>mit Knieleiste und Bodenlager zur</span>
+              <br/>
+              <span>Befestigung</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Systemgeländer</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071609" RNoPart="35">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Frontverkleidung aus Spanplatten,</span>
+              <br/>
+              <span>grau beschichtet, mit Alu-Trittkantenprofil,</span>
+              <br/>
+              <span>rückseitiger Abspannung,</span>
+              <br/>
+              <span>OKF bis 200 mm,</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Frontverkleidung bis OKF 200 mm</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071610" RNoPart="36">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Stahllüftungsplatten ohne Regulierung,</span>
+              <br/>
+              <span>Punktlast 4000 N, 300 - 600 m³/h,</span>
+              <br/>
+              <span>Freier Querschnitt 24 %</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Sta-Lü ohne Regul. 24 % FQ</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071611" RNoPart="37">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Stahllüftungsplatten ohne Regulierung,</span>
+              <br/>
+              <span>Punktlast 4000 N, 300 - 600 m³/h,</span>
+              <br/>
+              <span>Freier Querschnitt 38 %</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Sta-Lü ohne Regul. 38 % FQ</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071612" RNoPart="38">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Zulage Drosselblech, 0,75 mm, verz., </span>
+              <br/>
+              <span>FQ 6 %, kpl. montiert unter Lüftungsplatte</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Zulage Drosselblech</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071613" RNoPart="39">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Zulage für Mengenregulierung,</span>
+              <br/>
+              <span>für Stahllüftungsplatten, 2-teilig,</span>
+              <br/>
+              <span>werkseitig montiert</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Zulage Mengenregulierung montiert</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071614" RNoPart="40">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>PVC - Weichsockelleiste</span>
+              <br/>
+              <span>liefern und montieren.</span>
+              <br/>
+              <span>Die Montage erfolgt im Zuge der Doppelbodenarbeiten.</span>
+              <br/>
+              <span>Bei einer nachträglichen Montage der Sockelleisten werden zusätzliche An-/ und Abfahrten berechnet.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Sockelleiste PVC weich</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071615" RNoPart="41">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>PVC - Hartsockelleiste</span>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span>Die Montage erfolgt im Zuge der Doppelbodenarbeiten.</span>
+              <br/>
+              <span>Bei einer nachträglichen Montage der Sockelleisten werden zusätzliche An-/ und Abfahrten berechnet.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Sockelleiste PVC hart</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071616" RNoPart="42">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Teppichsockelleiste, </span>
+              <br/>
+              <span>bestehend aus Kunststoffträgerleiste, Teppichstreifen eingeklebt</span>
+              <br/>
+              <span>Die Montage erfolgt im Zuge der Doppelbodenarbeiten.</span>
+              <br/>
+              <span>Bei einer nachträglichen Montage der Sockelleisten werden zusätzliche An-/ und Abfahrten berechnet.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Sockelleiste Textil</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071617" RNoPart="43">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Teppichsockelleiste</span>
+              <br/>
+              <span>bestehend aus Teppichstreifen,</span>
+              <br/>
+              <span>Oberkante gekettelt</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Die Montage erfolgt im Zuge der Doppelbodenarbeiten.</span>
+              <br/>
+              <span>Bei einer nachträglichen Montage der Sockelleisten werden zusätzliche An-/ und Abfahrten berechnet.</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Sockelleiste Textil gekettelt</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071618" RNoPart="44">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Liefern eines Doppelsaughebers als Hebewerkzeug für Platten mit glatten Belägen</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Doppelsaugheber</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071619" RNoPart="45">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Liefern eines Krallenhebers als Hebewerkzeug für Platten mit Textilbelägen</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Krallenheber</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071620" RNoPart="46">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Liefern eines Werkzeugkastens</span>
+              <br/>
+              <span>für Hebewerkzeug</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Aufbewahrungskasten</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071621" RNoPart="47">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Reserveplatten </span>
+              <br/>
+              <span>(verbleibende Restplatten),</span>
+              <br/>
+              <span>aus Mineralwerkstoff, ohne Oberbelag,</span>
+              <br/>
+              <span>herstellen und liefern</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Reserveplatten GIFAfloor DB-36</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071622" RNoPart="48">
+          <Qty>0.000</Qty>
+          <QU>m</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Dehnungsfugenprofil Migua FT 35/50</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>Fugenbreite:		max. 30 mm,</span>
+              <br/>
+              <span>Fugenspiel:		10 ± 5 mm,</span>
+              <br/>
+              <span>Profilbreite sichtbar:	35 mm,</span>
+              <br/>
+              <span>Profilbreite total:	125 mm,</span>
+              <br/>
+              <span>Profilhöhe:		35 mm</span>
+              <br/>
+              <span/>
+              <br/>
+              <span>liefern und montieren</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Migua Dehnungsfuge</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071623" RNoPart="49">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Auflagertraversen für Kabelpritschen,</span>
+              <br/>
+              <span>einschl. Befestigungsmaterial,</span>
+              <br/>
+              <span>für Rohrstützen,</span>
+              <br/>
+              <span>L = 800 mm</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Kabelpritschen-Auflager</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071624" RNoPart="50">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Werkseitige Applikation von PVC-/ Lino-Belägen</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Applikation PVC/Linoleum</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071625" RNoPart="51">
+          <Qty>0.000</Qty>
+          <QU>Stk</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Werkseitige Applikation von textilen Belägen</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Applikation textile Beläge</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071626" RNoPart="52">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Oberbelag liefern und werkseitig applizieren,</span>
+              <br/>
+              <span>PVC 2,0 mm, ALW 10*10 Ohm,</span>
+              <br/>
+              <span>Dunloplan Nevada plus</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Dunloplan Nevada plus, PVC, 2,0 mm, ALW 10*10</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071627" RNoPart="53">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Oberbelag liefern und werkseitig applizieren,</span>
+              <br/>
+              <span>PVC 2,0 mm, ALW &#x3c; 10*8 Ohm,</span>
+              <br/>
+              <span>Dunloplan Derby al</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Dunloplan Derby al, PVC, 2,0 mm, ALW &#x3c; 10*8</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071628" RNoPart="54">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Oberbelag liefern und werkseitig applizieren,</span>
+              <br/>
+              <span>Linoleum 2,0 mm, ALW 10*10 Ohm,</span>
+              <br/>
+              <span>DLW Marmorette PUR</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>DLW Marmorette PUR 2,0 mm, Lino, ALW 10*10</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071629" RNoPart="55">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Oberbelag liefern und werkseitig applizieren,</span>
+              <br/>
+              <span>Linoleum 2,5 mm, ALW 10*8 Ohm,</span>
+              <br/>
+              <span>DLW Marmorette LCH LPX</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>DLW Marmorette LCH LPX 2,5 mm, Lino, ALW 10*8</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071630" RNoPart="56">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Oberbelag liefern und werkseitig applizieren,</span>
+              <br/>
+              <span>Linoleum 4,0 mm, </span>
+              <br/>
+              <span>DLW Linodur LPX</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>DLW Linodur LPX 4,0 mm, Lino</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000071631" RNoPart="57">
+          <Qty>0.000</Qty>
+          <QU>m²</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Oberbelag liefern und werkseitig applizieren,</span>
+              <br/>
+              <span>Nadelvlies 6,5 mm, ALW 10*8 Ohm,</span>
+              <br/>
+              <span>DLW Strong 956</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>DLW Strong 956, Nadelvlies 6,5 mm, ALW 10*8</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+        </Itemlist>
+       </BoQBody>
+      </BoQCtgy>
+      <BoQCtgy ID="SBBU-ANEB-0000011856" RNoPart="3">
+       <LblTx>
+        <span>Stundenlohnarbeiten</span>
+       </LblTx>
+       <BoQBody>
+        <Itemlist>
+         <Item ID="SBBU-ANPO-0000065004" RNoPart="1">
+          <Qty>0.000</Qty>
+          <QU>Std</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Regiearbeiten zum Nachweis, </span>
+              <br/>
+              <span>für einen Facharbeiter</span>
+              <br/>
+              <span/>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Regiearbeiten Facharbeiter*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+         <Item ID="SBBU-ANPO-0000065005" RNoPart="2">
+          <Qty>0.000</Qty>
+          <QU>Std</QU>
+          <Description>
+           <CompleteText>
+            <DetailTxt>
+             <Text>
+              <span>Regiearbeiten zum Nachweis, </span>
+              <br/>
+              <span>für einen Helfer</span>
+              <br/>
+              <span/>
+             </Text>
+            </DetailTxt>
+            <OutlineText>
+             <OutlTxt>
+              <TextOutlTxt>
+               <span>Regiearbeiten Helfer*</span>
+              </TextOutlTxt>
+             </OutlTxt>
+            </OutlineText>
+           </CompleteText>
+          </Description>
+         </Item>
+        </Itemlist>
+       </BoQBody>
+      </BoQCtgy>
+     </BoQBody>
+    </BoQCtgy>
+   </BoQBody>
+  </BoQ>
+ </Award>
+</GAEB>
